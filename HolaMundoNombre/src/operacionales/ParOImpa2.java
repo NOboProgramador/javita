@@ -1,4 +1,4 @@
-package Estructura;
+package operacionales;
 
 import java.util.Scanner;
 

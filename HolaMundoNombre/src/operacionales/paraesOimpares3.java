@@ -1,4 +1,4 @@
-
+package operacionales;
 import java.util.Scanner;
 
 /*
@@ -16,7 +16,8 @@ public class paraesOimpares3 {
  {
  // crea objeto Scanner para obtener la entrada de la ventana de comandos
  Scanner entrada = new Scanner( System.in );
-
+//declaramos la variables de entrada de la clase.
+//int se utiliza para almacenar los valores introducidos por el usuario.
  int numero1; // primer número a comparar
  int numero2; // segundo número a comparar
 
