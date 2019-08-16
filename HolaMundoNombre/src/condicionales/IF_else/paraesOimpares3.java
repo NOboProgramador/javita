@@ -1,4 +1,4 @@
-package operacionales;
+package condicionales;
 import java.util.Scanner;
 
 /*

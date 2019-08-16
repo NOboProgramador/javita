@@ -2,7 +2,7 @@ package operacionales;
 
 import java.util.Scanner;
 
-public class Ej4 {
+public class Ej5 {
 public static void main(String[] args) {
 Scanner entrada=new Scanner(System.in);
 float participacion,primerExamen,segundoExamen,exmenfinal,notafinal;
