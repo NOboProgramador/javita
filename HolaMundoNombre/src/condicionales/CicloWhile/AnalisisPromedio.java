@@ -1,4 +1,4 @@
-package condicionales;
+package condicionales.CicloWhile;
 
 import java.util.Scanner;
 

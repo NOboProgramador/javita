@@ -1,4 +1,4 @@
-package condicionales.IF_else;
+package condicionales.CicloWhile;
 
 import java.util.Scanner;
 
