@@ -50,7 +50,7 @@ for (int tiro = 1; tiro <= 6000000; tiro++)
  break;
 }
 }
-
+//% modulo de devuelve el residuo de la división
  System.out.println("Cara\tFrecuencia"); // encabezados de salida
  System.out.printf("1\t%d%n2\t%d%n3\t%d%n4\t%d%n5\t%d%n6\t%d%n",
 frecuencia1, frecuencia2, frecuencia3, frecuencia4,
