@@ -1,7 +1,7 @@
 //Tirar un dado de seis lados 6,000,000 veces
 //Para mostrar que los números que produce nextInt ocurren con una probabilidad aproximadamente
 //igual, simularemos 6,000,000 de tiros de un dado con la aplicación. Cada entero de 1 a 6
-//debe aparecer cerca de 1,000,000 de veces.
+//debe aparecer cerca de 1,000,000 de veces.219
 package condicionales.FOR;
 
 import java.security.SecureRandom;
