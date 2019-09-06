@@ -14,7 +14,7 @@ public static void main(String[] args) {
  //Un programa puede crear varios arreglos en una sola declaración.
 // La siguiente declaración reserva 100 elementos para b y 27 para x:
 
-String[] b = new String[100], x = new String[27];       
+//String[] b = new String[100], x = new String[27];       
     
 int[] numeros= new int[3]; 
 numeros[0]=8;

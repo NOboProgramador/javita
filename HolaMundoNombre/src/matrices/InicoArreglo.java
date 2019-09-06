@@ -1,4 +1,4 @@
-package Arreglos;
+package matrices;
 
 public class InicoArreglo {
 public static void main(String[] args)

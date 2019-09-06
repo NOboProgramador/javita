@@ -3,7 +3,7 @@
 //declara a enteros como un objeto ArrayList que puede almacenar sólo objetos Integer. Si coloca un
 //valor int en un ArrayList<Integer>, el valor int es envuelto (boxed) como objeto Integer, y cuando
 //obtiene un objeto Integer de un ArrayList<Integer>, para luego asignar el objeto a una variable int,
-//el valor int dentro del objeto es desenvuelto (unboxed).
+//el valor int dentro del objeto es desenvuelto (unboxed).pa.317
 
 package Arreglos;
 
